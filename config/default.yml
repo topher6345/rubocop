@@ -2968,6 +2968,11 @@ Security/CompoundHash:
   VersionAdded: '1.28'
   VersionChanged: '1.51'
 
+Security/ExplicitEnvVars:
+  Description: 'TODO: Write a description of the cop.'
+  Enabled: true
+  VersionAdded: '1.51'
+
 Security/Eval:
   Description: 'The use of eval represents a serious security risk.'
   Enabled: true

@@ -706,6 +706,7 @@ require_relative 'rubocop/cop/style/yoda_expression'
 require_relative 'rubocop/cop/style/zero_length_predicate'
 
 require_relative 'rubocop/cop/security/compound_hash'
+require_relative 'rubocop/cop/security/explicit_env_vars'
 require_relative 'rubocop/cop/security/eval'
 require_relative 'rubocop/cop/security/io_methods'
 require_relative 'rubocop/cop/security/json_load'
